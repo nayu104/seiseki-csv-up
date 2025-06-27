@@ -1,16 +1,6 @@
-# drift
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 成績管理アプリのサンプルアプリです
+はりぼてです。中身（機能）は実装していません。
+授業で急遽UIのイメージ画像が必要になったので、見た目だけを作成しました。
+注意
+実際の成績管理やCSVアップロード等の機能はありません。
+UIイメージの参考用サンプルです。
